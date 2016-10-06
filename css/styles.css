@@ -1,0 +1,15 @@
+
+.navbar-header {
+  opacity: .1;
+}
+
+.opc {
+  opacity: 1;
+}
+
+.btn-default {
+  border: 1px solid #42DCA3;
+  outline: none;
+  color: black;
+  background-color: #42DCA3;
+}
