@@ -13,3 +13,10 @@
   color: black;
   background-color: #42DCA3;
 }
+
+
+@media (max-width: 768px) {
+  .navbar-header {
+    opacity: 1;
+  }
+}
